@@ -1,4 +1,4 @@
-Python fundamentals are the core building blocks you must understand before writing real-world programs. I’ll explain them clearly with simple examples so you can apply them immediately.
+Python fundamentals are the core building blocks.
 
 ---
 
